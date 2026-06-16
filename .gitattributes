@@ -1,0 +1,6 @@
+*.ipynb linguist-language=Python
+*.ipynb diff=notext
+* text=auto
+*.py text
+*.md text
+*.json text
