@@ -4,18 +4,7 @@ A pedagogical, low-level data science repository featuring three foundational cl
 
 ---
 
-## 📑 Table of Contents
-1. [Core Architecture Philosophy](#core-architecture-philosophy)
-2. [Algorithmic Blueprints](#algorithmic-blueprints)
-   - [1. Naive Bayes Classifier (Bernoulli Presence Mapping)](#1-naive-bayes-classifier-bernoulli-presence-mapping)
-   - [2. K-Nearest Neighbors (KNN Spatial Evaluator)](#2-k-nearest-neighbors-knn-spatial-evaluator)
-   - [3. ID3 Decision Tree Classifier (Information-Theoretic Engine)](#3-id3-decision-tree-classifier-information-theoretic-engine)
-3. [Data Validation & Preprocessing Pipeline](#data-validation--preprocessing-pipeline)
-4. [Critical Observations & Optimization Insights](#critical-observations--optimization-insights)
-
----
-
-## 🎯 Core Architecture Philosophy
+## Core Architecture Philosophy
 
 This repository is built for **architectural transparency, educational depth, and structural optimization**. By avoiding complex third-party frameworks, every estimator exposes raw matrix manipulation, probability accumulation, and information distributions.
 
@@ -25,7 +14,7 @@ This repository is built for **architectural transparency, educational depth, an
 
 ---
 
-## 🧠 Algorithmic Blueprints
+## Algorithmic Blueprints
 
 ### 1. Naive Bayes Classifier
 A probabilistic model leveraging Bayes' Theorem with strong (naive) conditional independence assumptions. This engine evaluates categorical feature spaces via a multivariate **Bernoulli tracking pipeline** optimizing binary token flags.
